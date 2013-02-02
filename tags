@@ -1,0 +1,10 @@
+List	fibonacci.scala	4
+Main	Main.scala	/^object Main {$/
+fac	lcm.scala	5
+facto	facto.scala	5
+fibonacci	fibonacci.scala	3
+fizzBuzz	fizzBuzz.scala	3
+lcm	lcm.scala	4
+name	build.sbt	1
+print	fizzBuzz.scala	/^	def print(n: Int) {$/
+trouver2	facto.scala	/^	def trouver2(f: (Int, Int) => Int, liste: List[In/

@@ -1,0 +1,36 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set()[0m
+[0m[[0mdebug[0m] [0m	modified: Set(/home/usr/Scala/Euler/src/test/scala/test.scala)[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set(/home/usr/Scala/Euler/target/scala-2.9.2/test-classes/com/euler/test/TestFib$$anonfun$1.class, /home/usr/Scala/Euler/target/scala-2.9.2/test-classes/com/euler/test/TestFib.class)[0m
+[0m[[0mdebug[0m] [0mModified external sources: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/home/usr/Scala/Euler/src/test/scala/test.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set(/home/usr/Scala/Euler/src/test/scala/test.scala)[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mInitially invalidated: Set(/home/usr/Scala/Euler/src/test/scala/test.scala)[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /home/usr/Scala/Euler/target/scala-2.9.2/test-classes...[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 11201a1, interfacing (CompilerInterface) with Scala compiler version 2.9.2[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-d[0m
+[0m[[0mdebug[0m] [0m	/home/usr/Scala/Euler/target/scala-2.9.2/test-classes[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-6-openjdk/jre/lib/resources.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/rt.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/jsse.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/jce.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/charsets.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/rhino.jar:/usr/lib/jvm/java-6-openjdk/jre/classes:/home/usr/.sbt/boot/scala-2.9.2/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/usr/Scala/Euler/target/scala-2.9.2/test-classes:/home/usr/Scala/Euler/target/scala-2.9.2/classes:/home/usr/.ivy2/cache/org.scalatest/scalatest_2.9.2/jars/scalatest_2.9.2-1.6.1.jar[0m
+[0m[[31merror[0m] [0m/home/usr/Scala/Euler/src/test/scala/test.scala:30: not found: type Build[0m
+[0m[[31merror[0m] [0mobject Test extends Build {[0m
+[0m[[31merror[0m] [0m                    ^[0m
+[0m[[31merror[0m] [0m/home/usr/Scala/Euler/src/test/scala/test.scala:31: not found: value Project[0m
+[0m[[31merror[0m] [0m	lazy val root = Project("euler", file("."))[0m
+[0m[[31merror[0m] [0m	                ^[0m
+[0m[[31merror[0m] [0m/home/usr/Scala/Euler/src/test/scala/test.scala:40: not found: value config[0m
+[0m[[31merror[0m] [0m	lazy val RunDebug = config("debug").extend( Runtime)[0m
+[0m[[31merror[0m] [0m	                    ^[0m
+[0m[[31merror[0m] [0mthree errors found[0m
+[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
+[0m[[31merror[0m] [0m(test:[31mcompile[0m) Compilation failed[0m

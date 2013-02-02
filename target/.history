@@ -1,0 +1,103 @@
+compile
+run
+compile
+run
+compile
+run
+val x = new fibonacci()
+compile
+test
+compile
+test
+last test:test
+compile
+run
+compile
+run
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+compil
+compile
+test
+compile
+test
+compile
+test
+tes
+test
+exit
+test
+last test:test
+last test:test | less
+last test:test
+exit
+test
+last test:test
+test
+tets
+test
+ test
+test
+val fac = new facto
+var fac = new factor
+console
+compile
+console
+test
+clean
+compile
+clean
+compile
+clean
+compile -deprecation
+compile
+console
+tewst
+test
+console
+test
+last test:test
+test
+:load facto.scala
+console
+tets
+test
+last test:test
+test
+last test:test
+debug
+-debug
+run
+debug:run
+set every traceLevel := 1
+run
+set every traceLevel := 2
+run
+debug:mode
+debug:*::
+:quit
+quit
+:quit
+quit
+debug:run
+debug:mode
+compile
+test
+compile
+test
+exit
+run
+compile
+run
